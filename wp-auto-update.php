@@ -1,7 +1,7 @@
 <?php
 /*
 * Plugin Name: Wordpress Automatic  Updates
-* Description: 
+* Description: A simple plugin which forces wordpress to automatically update plugins, theme, and core wordpress files whenever updates are available.
 * Version: 1.0
 * Author: CJ Trowbridge
 * Author URI: https://github.com/cjtrowbridge/Wordpress-Automatic-Updates
